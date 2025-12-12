@@ -1,1 +1,3 @@
 # alx-system_engineering-devops
+
+0x03. Shell, Init Files, Variables and ExpansionsThis project focuses on shell initialization files, variables, and expansions in Bash.Scripts0-alias: A script that creates an alias ls with the value rm *.Usage: source ./0-alias (Be careful, this alias is destructive!)Note: This script demonstrates how aliases can override standard commands.RequirementsAllowed editors: vi, vim, emacsAll your scripts will be tested on Ubuntu 20.04 LTSAll your scripts should be exactly two lines long ($ wc -l file should print 2)All your files should end with a new lineThe first line of all your files should be exactly #!/bin/bash
